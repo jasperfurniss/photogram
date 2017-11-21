@@ -37,6 +37,13 @@ gem 'jbuilder', '~> 2.5'
 # Jasper Furniss added HAML to the setup
 gem 'haml'
 
+gem 'paperclip'
+
+gem 'simple_form'
+
+gem 'jquery-rails'
+
+gem 'bootstrap-sass', '~> 3.3.7'
 
 
 group :development, :test do
